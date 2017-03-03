@@ -52,10 +52,14 @@ namespace Gojo
 			app.Screenshot("Then we Tapped on 'Demo Hospital - Five Moments'");
 
 			app.Tap("activity_observation_type_select_type");
+			app.Screenshot("Next we Tapped on the 'Plus' Icon");
 			app.Tap("dialog_double_button_ok_button");
+			app.Screenshot("Then we Tapped on 'PPE'");
 
 			app.Tap("Clinic");
+			app.Screenshot("We Tapped on 'Clinic'");
 			app.Tap("Doctor");
+			app.Screenshot("");
 			app.Tap("In Room");
 
 			app.Tap("Airborne");
