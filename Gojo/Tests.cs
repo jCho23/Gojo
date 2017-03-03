@@ -64,6 +64,7 @@ namespace Gojo
 			app.Screenshot("Then we selected 'In Room'");
 
 			app.Tap("Airborne");
+			app.Screenshot("We selected 'AirBorne'");
 			app.Tap("activity_session_tab_save_observation");
 		}
 
