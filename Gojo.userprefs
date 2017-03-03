@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F4BBC16D-E069-4622-ACD4-479685253DBE}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gojo/Tests.cs">
+    <Files>
+      <File FileName="Gojo/AppInitializer.cs" Line="30" Column="17" />
+      <File FileName="Gojo/Tests.cs" Line="31" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Gojo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
