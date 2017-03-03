@@ -59,8 +59,9 @@ namespace Gojo
 			app.Tap("Clinic");
 			app.Screenshot("We Tapped on 'Clinic'");
 			app.Tap("Doctor");
-			app.Screenshot("");
+			app.Screenshot("Next we Tapped on 'Doctor'");
 			app.Tap("In Room");
+			app.Screenshot("Then we selected 'In Room'");
 
 			app.Tap("Airborne");
 			app.Tap("activity_session_tab_save_observation");
