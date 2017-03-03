@@ -66,8 +66,8 @@ namespace Gojo
 			app.Tap("Airborne");
 			app.Screenshot("We selected 'AirBorne'");
 			app.Tap("activity_session_tab_save_observation");
+			app.Screenshot("Last, we Tapped on the 'Save' Button");
 		}
-
 
 	}
 }
