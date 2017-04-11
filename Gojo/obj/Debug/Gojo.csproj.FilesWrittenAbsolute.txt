@@ -1,7 +1,0 @@
-/Users/junecho/Projects/Gojo/Gojo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/Gojo/Gojo/bin/Debug/Gojo.dll.mdb
-/Users/junecho/Projects/Gojo/Gojo/bin/Debug/Gojo.dll
-/Users/junecho/Projects/Gojo/Gojo/obj/Debug/Gojo.dll
-/Users/junecho/Projects/Gojo/Gojo/obj/Debug/Gojo.dll.mdb
-/Users/junecho/Projects/Gojo/Gojo/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/Gojo/Gojo/bin/Debug/Xamarin.UITest.dll
